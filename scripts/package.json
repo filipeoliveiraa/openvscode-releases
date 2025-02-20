@@ -1,8 +1,8 @@
 {
   "type": "module",
   "dependencies": {
-    "@octokit/plugin-paginate-rest": "^5.0.1",
-    "octokit": "^2.0.10",
+    "@octokit/plugin-paginate-rest": "^11.4.1",
+    "octokit": "^4.1.2",
     "octokit-plugin-create-pull-request": "^4.0.0"
   }
 }
